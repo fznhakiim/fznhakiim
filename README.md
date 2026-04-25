@@ -1,9 +1,11 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hi%2C+I'm+Fauzan+Ashril+Hakiim+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Fauzan+Ashril+Hakiim+👋" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+Developer;Project+Manager;UI%2FUX+Enthusiast;FastAPI+%26+Next.js+Enjoyer;QA+or+PM%3F+Why+not+both+😄" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Project+Manager;UI%2FUX+Enthusiast;FastAPI+%26+Next.js+Enjoyer;QA+or+PM%3F+Why+not+both+😄" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <br/>
 I'm currently working on<br>A PBL project tackling a real industry problem, building a pest and disease detection system for lettuce plants in collaboration with Lokatani.<br><br>I'm looking to collaborate on<br>Web apps mostly, though I'm open to mobile too! If you're building something useful and well-crafted, let's talk.<br><br>I'm currently learning<br>Expanding my front-end tech stack and exploring the world of super apps, because why build one app when you can build all of them? 👀<br><br>Ask me about<br>Keeping a project on track, making sure everything actually works before it ships, and yes I do frontend and backend too, so maybe I'm a PM who codes? Or a QA who leads? Still figuring that out 😄<br><br>Fun fact<br>Genuinely scared of AI and yet here I am, building with it every day. Make that make sense.
